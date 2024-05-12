@@ -1,0 +1,76 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+
+}
+
+.main{
+    background-color: black;
+    color: rgb(254, 255, 255);
+    height: 700px;
+    width: 600px;
+    margin-left: 750px;
+    margin-top: 150px;
+    border-radius: 20px;
+    
+
+}
+.main #cityin{
+    font-size: 2vw;
+    padding-top: 5px;
+    padding-left: 20px;
+    margin-top: 30px;
+    height: 50px;
+    width: 400px;
+    margin-left: 80px;
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 20px;
+    color:white
+    
+}
+.main #cityin::placeholder{
+    color: rgb(176, 176, 176);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 500;
+}
+.main .second-div figure{
+    display: flex;
+    flex-direction: row;
+    padding-left: 30px;
+    padding-top: 100px;
+    
+}
+.main .second-div figure figcaption{
+    font-size: 3.7vh;
+    padding-left: 100px;
+    padding-top: 60px;
+    padding-right: 30px;
+    
+}
+.main .second-div figure img{
+    height: 200px;
+    width: 200px;
+
+
+}
+
+
+
+.main .content{
+    font-size: 4vh;
+    display: flex;
+    flex-direction: column;
+    margin-left: 120px;
+    padding-top: 30px;
+    
+    
+}
+.content h2{
+    margin-top: 40px;
+}
+
+
+
+
